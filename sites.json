@@ -140,7 +140,13 @@
 	  "siteName": "Pngwen's Den",
 	  "siteURL": "https://pngwen.sdf.org/",
 	  "siteTags": "personal, shrine, blog, programming, electronics, math",
-	  "siteLongDescription": "Welcome to my little corner of the web! Lately, I have been missing the non-corporate web,and so I thought I would join back in on the fun. I write about my software projects and a bit about my day job, which is teaching computer science at a midwestern university."
-	}		
+	  "siteLongDescription": "Welcome to my little corner of the web! Lately, I have been missing the non-corporate web,and so I thought I would join back in on the fun. I write about my software projects and a bit about my day job, which is teaching computer science at a midwestern university."		
+	},
+	{ "siteOwner" : "Dophelsinette",
+	  "siteName": "The Crypt",
+	  "siteURL": "https://a-quiet-room.neocities.org/",
+	  "siteTags": "Chat, Shrine, Blog, Programming, Music, Explore",
+	  "siteLongDescription": "Welcome to The Crypt. There isn't much of a purpose here, but its worth leaving your mark."
+	}	
     ]
 }
